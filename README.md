@@ -1,2 +1,2 @@
-# Koala
-Koala is a project help you build your movie application
+# Deer
+Deer is NextJS boilerplate
