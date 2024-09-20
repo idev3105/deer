@@ -1,0 +1,9 @@
+{
+  "example": {
+    "hello": "Hello"
+  },
+  "languages": {
+    "en": "English",
+    "vn": "Vietnamese"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "example": {
+    "hello": "Xin chào"
+  },
+  "languages": {
+    "en": "Tiếng Anh",
+    "vn": "Tiếng Việt"
+  }
+}
