@@ -1,6 +1,8 @@
 {
   "example": {
-    "hello": "Xin chào"
+    "hello": "Xin chào",
+    "numberClick": "Số lần nhấp chuột",
+    "clickMe": "Nhấp chuột vào đây"
   },
   "languages": {
     "en": "Tiếng Anh",

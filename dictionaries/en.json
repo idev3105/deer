@@ -1,6 +1,8 @@
 {
   "example": {
-    "hello": "Hello"
+    "hello": "Hello",
+    "numberClick": "Number of click",
+    "clickMe": "Click me"
   },
   "languages": {
     "en": "English",
